@@ -1,3 +1,13 @@
+.alert{
+   
+    position:absolute;
+    left:0;
+    right:0;
+    width:700px; /* Assign a value */
+   
+    margin:auto;
+}
+
 #loader{
     position: fixed;
     display: none;

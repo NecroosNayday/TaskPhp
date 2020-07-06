@@ -29,42 +29,10 @@ class MainController extends AppController {
 			$sql_part = "ORDER BY $filter[0] $filter[1] ";
 		}
 
-		if(!empty($_POST['new_val'])){
-			 
-			$id = $_POST['id'];
-			$new_val = $_POST['new_val'];
-			
-
-			$changed=1;
-			 //$taskUpdate= Task::updateTask();
-			 //$sql_task = "Update $taskUpdate";
-			 \R::exec( 'UPDATE `messages` SET `message`= :mess, `changed`=:changed WHERE `id` = :id',array(
-				 ':mess'=>$new_val,
-				 ':id'=>$id,
-				 ':changed'=>$changed
-				
-			 ) );
-			
-			
-		}
+		
 		
 
-		if(!empty($_POST['new_status'])){
-			
-			echo('nesex');
-			$id = $_POST['idckeck'];
-			$new_val = $_POST['new_status'];
-			
-			 //$taskUpdate= Task::updateTask();
-			 //$sql_task = "Update $taskUpdate";
-			 \R::exec( 'UPDATE `messages` SET `status`= :statuss WHERE `id` = :id',array(
-				 ':statuss'=>$new_val,
-				 ':id'=>$id
-				 
-				
-			 ) );
-			
-		}
+		
 
 		$total =\R::count('messages');
 		$pagination = new Pagination($page, $perpage,$total);
@@ -119,6 +87,47 @@ class MainController extends AppController {
 			
 		}
 	}
+
+	public function adminAction(){
+		if(!empty($_POST['new_val'])){
+			if(isset($_SESSION['admin'])){
+			   $id = $_POST['id'];
+			   $new_val = $_POST['new_val'];
+			   
+	   
+			   $changed=1;
+				//$taskUpdate= Task::updateTask();
+				//$sql_task = "Update $taskUpdate";
+				\R::exec( 'UPDATE `messages` SET `message`= :mess, `changed`=:changed WHERE `id` = :id',array(
+					':mess'=>$new_val,
+					':id'=>$id,
+					':changed'=>$changed
+				   
+				) );
+				echo 'yes';
+				exit;
+			}
+			echo 'no';
+			exit;
+   }
+   
+
+   if(!empty($_POST['new_status'])){
+	if(isset($_SESSION['admin'])){
+		$id = $_POST['idckeck'];
+		$new_val = $_POST['new_status'];
+		\R::exec( 'UPDATE `messages` SET `status`= :statuss WHERE `id` = :id',array(
+		':statuss'=>$new_val,
+		':id'=>$id
+		) );
+		echo 'yes';
+		exit;
+	}
+	echo 'no';
+	exit;
+}
+}
+	
 
 	
 }

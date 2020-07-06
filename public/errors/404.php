@@ -180,7 +180,7 @@ p a:hover{
 <div class="wrap">
     <div class="logo">
         <img src="/errors/images/404.png" alt=""  />
-        <p><a href="<?-PATH; ?>">Go back to Home</a></p>
+        <p><a href="/">Go back to Home</a></p>
     </div>
 </div>
 <div class="footer">

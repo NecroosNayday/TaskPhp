@@ -6,19 +6,27 @@ $(function(){
             newVal = $(this).text();
         if(newVal != oldVal){
             $.ajax({
-                url: location.href,
+                url: 'main/admin',
                 type:'POST',
                 data: {new_val:newVal, id:id},
                 beforeSend:function(){
                   $('#loader').fadeIn();      
                 },
                 success: function(res){
-                    if (res=='yes'){
-
-                    }else
-                    $('#mes-edit').text('Изменения  cохранены').delay(500).fadeIn(1000,function(){
+                   if(res=='no'){
+                    $('#mes-edit').text('Изменения не будут внесены').delay(500).fadeIn(1000,function(){
+                        $('#mes-edit').delay(1000).fadeOut();
+                        setTimeout(function(){
+                            window.location.reload(1);
+                         }, 2000);
+                    });
+                   }
+                   if(res=='yes'){
+                    $('#mes-edit').text('Изменения cохранены').delay(500).fadeIn(1000,function(){
                         $('#mes-edit').delay(1000).fadeOut();
                     });
+                   }
+                    
                     
                 },
                 error:function(){
@@ -53,7 +61,7 @@ $(function(){
             if(oldStatus!=newStatus){
 
                 $.ajax({
-                    url: location.href,
+                    url: 'main/admin',
                     type:'POST',
                     data: {new_status:newStatus, idckeck:idcheck},
                     beforeSend:function(){
@@ -62,12 +70,23 @@ $(function(){
                            
                     },
                     success: function(res){
-                        console.log(res);
-                        $('#mes-edit').text('Изменения cохранены').delay(500).fadeIn(1000,function(){
-                            $('#mes-edit').delay(1000).fadeOut();
-                        });
-                      
-                    },
+                        
+                        if(res=='no'){
+                         $('#mes-edit').text('Изменения не будут внесены').delay(500).fadeIn(1000,function(){
+                             $('#mes-edit').delay(1000).fadeOut();
+                         });
+                         setTimeout(function(){
+                            window.location.reload(1);
+                         }, 5000);
+                        }
+                        if(res=='yes'){
+                         $('#mes-edit').text('Изменения cохранены').delay(500).fadeIn(1000,function(){
+                             $('#mes-edit').delay(1000).fadeOut();
+                         });
+                        }
+                         
+                         
+                     },
                     error:function(){
                         alert('error');
                     },
