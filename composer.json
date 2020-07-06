@@ -1,11 +1,11 @@
 {
   "autoload": {
     "psr-4": {
-      "InternetShop\\": "vendor/InternetShop/core",
+      "TaskManager\\": "vendor/TaskManager/core",
       "app\\": "app"
     }
   },
   "require": {
-  	  "gabordemooij/redbean": "dev-master"
+  	  "gabordemooij/redbean":"dev-master"
   }
 }

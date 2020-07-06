@@ -6,20 +6,20 @@
         "source": {
             "type": "git",
             "url": "https://github.com/gabordemooij/redbean.git",
-            "reference": "0c8523a567e53a6c6600509f1f609fe374932df1"
+            "reference": "bc65b616cc098dac467b11fa93f259483016033a"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/gabordemooij/redbean/zipball/0c8523a567e53a6c6600509f1f609fe374932df1",
-            "reference": "0c8523a567e53a6c6600509f1f609fe374932df1",
+            "url": "https://api.github.com/repos/gabordemooij/redbean/zipball/bc65b616cc098dac467b11fa93f259483016033a",
+            "reference": "bc65b616cc098dac467b11fa93f259483016033a",
             "shasum": ""
         },
         "require": {
             "php": ">=5.3.4"
         },
-        "time": "2020-02-01T10:44:41+00:00",
+        "time": "2020-06-27T16:29:28+00:00",
         "type": "library",
-        "installation-source": "source",
+        "installation-source": "dist",
         "autoload": {
             "psr-4": {
                 "RedBeanPHP\\": "RedBeanPHP"

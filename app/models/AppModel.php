@@ -2,7 +2,7 @@
 
 namespace app\models;
 
-use InternetShop\base\Model;
+use TaskManager\base\Model;
 
 class AppModel extends Model{
 

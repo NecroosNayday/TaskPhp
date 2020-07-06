@@ -2,7 +2,8 @@
 namespace app\controllers;
 
 use app\models\AppModel;
-use InternetShop\base\Controller;
+use TaskManager\base\Controller;
+
 
 class AppController extends Controller{
 

@@ -1,6 +1,6 @@
 <?php
 
-use InternetShop\Router;
+use TaskManager\Router;
 
 
 

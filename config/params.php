@@ -2,8 +2,9 @@
 
 return [
 	'admin_email' => 'admin@mail.com',
-	'shop_name'	=> 'Магазин InternetShop',
 	'pagination' => 3,
+	'param'=>'name',
+	'row'=>'desc',
 	'smtp_login' => '',
 	'smtp_password' => '',
 ];

@@ -1,209 +1,800 @@
-
-[2020-02-02 18:07:49] Текст ошибки:Нет соединения с БД | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Db.php | Строка: 15
+[2020-07-03 15:11:08] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\public\index.php | Строка: 7
 --------------------
-[2020-02-02 18:22:53] Текст ошибки:Class 'app\controllers\Cashe' not found | Файл D:\open_server\OSPanel\domains\InternetShop\app\controllers\MainController.php | Строка: 17
+[2020-07-03 15:26:28] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\public\index.php | Строка: 7
 --------------------
-[2020-02-02 18:23:19] Текст ошибки:Class 'InternetShop\Cashe' not found | Файл D:\open_server\OSPanel\domains\InternetShop\app\controllers\MainController.php | Строка: 17
+[2020-07-03 15:32:36] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-02 18:24:53] Текст ошибки:Class 'InternetShop\Cashe' not found | Файл D:\open_server\OSPanel\domains\InternetShop\app\controllers\MainController.php | Строка: 17
+[2020-07-03 15:32:37] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-02 18:33:01] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 15:36:56] Текст ошибки:Контроллер app\controllers\PageController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-02 18:33:01] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 15:37:38] Текст ошибки:Контроллер app\controllers\admin\MainController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-02 18:33:01] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 15:42:53] Текст ошибки:Контроллер app\controllers\admin\MainController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:39:09] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 15:56:20] Текст ошибки:Контроллер app\controllers\admin\MainController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:03:06] Текст ошибки:Class 'TaskManager\Db' not found | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\Model.php | Строка: 13
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:06:55] Текст ошибки:Class 'TaskManager\Db' not found | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\Model.php | Строка: 13
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:06:56] Текст ошибки:Class 'TaskManager\Db' not found | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\Model.php | Строка: 13
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:07:00] Текст ошибки:Class 'TaskManager\Db' not found | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\Model.php | Строка: 13
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:12:43] Текст ошибки:Class 'TaskManager\Db' not found | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\Model.php | Строка: 13
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:15:22] Текст ошибки:Class 'R' not found | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Db.php | Строка: 13
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:33:11] Текст ошибки:Контроллер app\controllers\AutController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:43:41] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:43:41] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:43:42] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:44:35] Текст ошибки:Контроллер app\controllers\AutController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:44:40] Текст ошибки:Контроллер app\controllers\AutController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:44:41] Текст ошибки:Контроллер app\controllers\AutController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:44:41] Текст ошибки:Контроллер app\controllers\AutController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:44:42] Текст ошибки:Контроллер app\controllers\AutController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:44:42] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:44:42] Текст ошибки:Контроллер app\controllers\AutController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 16:44:42] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 19:25:28] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 19:53:30] Текст ошибки:SQLSTATE[42S02]: Base table or view not found: 1146 Table 'users.messeges' doesn't exist | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 19:55:32] Текст ошибки:SQLSTATE[42S02]: Base table or view not found: 1146 Table 'tasks.messeges' doesn't exist | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 22:47:53] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:19:08] Текст ошибки:Class 'app\controllers\App' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 13
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:22:29] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 14
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:23:18] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:27:53] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:32:22] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:32:35] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:32:39] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:34:10] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:34:27] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:35:36] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:35:39] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:48:13] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:49:06] Текст ошибки:Class 'app\controllers\App' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 14
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:49:22] Текст ошибки:Call to a member function getProperty() on null | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 14
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:50:25] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:52:16] Текст ошибки:Class 'app\controllers\Pagination' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 15
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-03 23:52:43] Текст ошибки:syntax error, unexpected '=', expecting ']' | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\libs\Pagination.php | Строка: 20
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 02:40:21] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 02:41:09] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 02:41:11] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 02:41:20] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:42:59] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 02:47:43] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 02:47:57] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 03:31:10] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 03:39:10] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 03:40:26] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 03:40:27] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 12:17:28] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 12:27:36] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 12:30:00] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 13:41:29] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 13:42:30] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 13:42:37] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 13:44:05] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 13:51:45] Текст ошибки:Class 'app\controllers\User' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 28
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 13:55:52] Текст ошибки:Метод app\controllers\MainController::loginAction не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 37
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 13:56:40] Текст ошибки:Class 'app\controllers\User' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 28
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 13:59:58] Текст ошибки:Class 'app\controllers\User' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 28
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:00:07] Текст ошибки:Class 'app\controllers\User' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 28
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:03:32] Текст ошибки:Class 'app\controllers\User' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 28
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:05:35] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:08:19] Текст ошибки:Контроллер app\controllers\IndexController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:08:53] Текст ошибки:Контроллер app\controllers\IndexController не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 42
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:08:56] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:25:51] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:43] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:45] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:45] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:45] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:45] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:45] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:45] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:45] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:46] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:26:56] Текст ошибки:Call to undefined function emprty() | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 1
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:27:19] Текст ошибки:Class 'app\controllers\User' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 28
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:28:19] Текст ошибки:syntax error, unexpected '=', expecting ']' | Файл D:\OpenServer\domains\TaskManager\app\controllers\User.php | Строка: 8
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-04 14:30:12] Текст ошибки:Class 'app\controllers\User' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 30
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 13:40:14] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 13:43:08] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 13:43:28] Текст ошибки:Call to undefined function app\controllers\redirect() | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 34
 --------------------
-[2020-02-15 19:44:30] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 13:45:02] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:46:11] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 13:45:27] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
-[2020-02-15 19:46:26] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 13:53:27] Текст ошибки:SQLSTATE[42S02]: Base table or view not found: 1146 Table 'tasks.user' doesn't exist | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
 --------------------
-[2020-02-15 19:46:35] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 13:53:53] Текст ошибки:SQLSTATE[HY000]: General error: 1364 Field 'login' doesn't have a default value | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
 --------------------
-[2020-02-15 19:52:10] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:15:35] Текст ошибки:SQLSTATE[42S02]: Base table or view not found: 1146 Table 'tasks.user' doesn't exist | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
 --------------------
-[2020-02-15 20:03:00] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:17:10] Текст ошибки:Call to undefined function h() | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 20:39:48] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:17:11] Текст ошибки:Call to undefined function h() | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 2
 --------------------
-[2020-02-15 20:39:56] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:19:48] Текст ошибки:Не найден вид D:\OpenServer\domains\TaskManager/app/views/Main/logout.php | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\View.php | Строка: 42
 --------------------
-[2020-02-15 20:39:58] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:21:12] Текст ошибки:Не найден вид D:\OpenServer\domains\TaskManager/app/views/Main/logout.php | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\View.php | Строка: 42
 --------------------
-[2020-02-15 20:40:16] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:24:52] Текст ошибки:Не найден вид D:\OpenServer\domains\TaskManager/app/views/Main/login.php | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\View.php | Строка: 42
 --------------------
-[2020-02-15 20:40:26] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:25:05] Текст ошибки:Не найден вид D:\OpenServer\domains\TaskManager/app/views/Main/login.php | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\View.php | Строка: 42
 --------------------
-[2020-02-15 20:40:39] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:25:16] Текст ошибки:Не найден вид D:\OpenServer\domains\TaskManager/app/views/Main/logout.php | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\View.php | Строка: 42
 --------------------
-[2020-02-15 20:41:28] Текст ошибки:Страница не найдена | Файл D:\open_server\OSPanel\domains\InternetShop\vendor\InternetShop\core\Router.php | Строка: 48
+[2020-07-05 14:31:48] Текст ошибки:syntax error, unexpected '}' | Файл D:\OpenServer\domains\TaskManager\app\models\User.php | Строка: 24
+--------------------
+[2020-07-05 14:45:35] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 14:45:44] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 14:45:50] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 14:48:09] Текст ошибки:Метод app\controllers\MainController::logoutAction не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 37
+--------------------
+[2020-07-05 15:10:14] Текст ошибки:Метод app\controllers\MainController::loginAction не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 37
+--------------------
+[2020-07-05 15:11:10] Текст ошибки:Метод app\controllers\MainController::loginAction не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 37
+--------------------
+[2020-07-05 15:11:37] Текст ошибки:Метод app\controllers\MainController::loginAction не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 37
+--------------------
+[2020-07-05 15:12:16] Текст ошибки:Не найден вид D:\OpenServer\domains\TaskManager/app/views/User/login.php | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\View.php | Строка: 42
+--------------------
+[2020-07-05 15:19:07] Текст ошибки:Метод app\controllers\UserController::logoutAction не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 37
+--------------------
+[2020-07-05 15:19:35] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 15:25:09] Текст ошибки:Метод app\controllers\UserController::logoutAction не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 37
+--------------------
+[2020-07-05 15:25:42] Текст ошибки:Метод app\controllers\UserController::logoutAction не найден | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 37
+--------------------
+[2020-07-05 15:25:45] Текст ошибки:Не найден вид D:\OpenServer\domains\TaskManager/app/views/Main/logout.php | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\base\View.php | Строка: 42
+--------------------
+[2020-07-05 15:27:58] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 15:50:09] Текст ошибки:Class 'app\Models\Task' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 48
+--------------------
+[2020-07-05 16:48:16] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY desc  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:48:23] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'ORDER BY desc  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:55:09] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:55:25] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:55:33] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:55:53] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:56:14] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:56:30] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'DESC LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:56:35] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near ' DESC LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:56:46] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:56:46] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 16:58:50] Текст ошибки:Too few arguments to function TaskManager\Registry::setProperty(), 1 passed in D:\OpenServer\domains\TaskManager\app\controllers\MainController.php on line 21 and exactly 2 expected | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Registry.php | Строка: 11
+--------------------
+[2020-07-05 16:58:58] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 17:02:07] Текст ошибки:Too few arguments to function TaskManager\Registry::setProperty(), 1 passed in D:\OpenServer\domains\TaskManager\app\controllers\MainController.php on line 21 and exactly 2 expected | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Registry.php | Строка: 11
+--------------------
+[2020-07-05 17:02:30] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 17:03:04] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 17:03:32] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 17:03:47] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 17:04:25] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 17:04:38] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 17:05:12] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 17:17:22] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 17:20:36] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 18:10:09] Текст ошибки:Call to undefined method app\controllers\MainController::isAjax() | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 30
+--------------------
+[2020-07-05 18:12:01] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 18:23:44] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 18:24:30] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 18:31:34] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 18:36:58] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 18:55:27] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 18:56:01] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 19:03:59] Текст ошибки:Call to undefined method app\controllers\MainController::isAjax() | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 30
+--------------------
+[2020-07-05 21:07:14] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 21:07:15] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 21:39:07] Текст ошибки:Call to undefined function app\controllers\getFilter() | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 23
+--------------------
+[2020-07-05 21:39:16] Текст ошибки:Call to undefined function app\controllers\getFilter() | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 23
+--------------------
+[2020-07-05 21:40:33] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-05 21:41:17] Текст ошибки:Call to undefined function app\models\trimr() | Файл D:\OpenServer\domains\TaskManager\app\models\Task.php | Строка: 16
+--------------------
+[2020-07-05 21:58:05] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 21:58:05] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 21:59:10] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '$row LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:01:57] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column '$filter' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:02:28] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column '$filter' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:08:41] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nameasc' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:08:51] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:09:10] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:09:11] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:13:15] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:14:29] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:14:30] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:19:45] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:21:15] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'namedesc' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:21:19] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nameasc' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:21:32] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:21:36] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'nameasc' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:23:30] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:23:39] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:24:04] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-05 22:29:19] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'status' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:33:14] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 01:34:19] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:34:20] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:37:49] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:38:01] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:38:02] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:38:03] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:38:04] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:38:05] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:38:54] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:39:12] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc ) LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:51:20] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:51:26] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:53:14] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:54:07] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:57:14] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 01:57:18] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'email  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:57:21] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'email  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:57:25] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'status  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:57:37] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:57:55] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'status  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:58:00] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'status  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:58:41] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'status  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:59:37] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 01:59:55] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:00:20] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:00:20] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:01:59] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:02:00] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:03:34] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:03:36] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:05:47] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:06:00] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:06:02] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:06:08] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:06:51] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:21:05] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:23:32] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:26:46] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:27:02] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:30:02] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:30:32] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:30:45] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:30:47] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:39:57] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:43:58] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:44:13] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:44:33] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:45:27] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:45:32] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:45:37] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:45:39] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:45:50] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:46:02] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'decs LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:46:08] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:46:14] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:46:18] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:46:19] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:46:20] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:49:09] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:49:16] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:51:54] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:53:01] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:01] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:02] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:03] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:15] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:53:33] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:34] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:36] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:38] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:38] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:39] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 02:53:46] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:53:59] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 02:54:00] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:14:30] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:15:47] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:15:56] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:16:08] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:17:09] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:17:11] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:17:15] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:17:15] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:29:10] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:29:34] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:29:50] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:30:07] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:31:04] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:35:37] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:35:58] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:36:01] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:39:37] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:43:22] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:47:55] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:51:30] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:52:24] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:52:25] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:53:36] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:53:38] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:53:45] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:53:55] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:54:16] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:54:17] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:54:17] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:54:18] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:54:26] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:56:44] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:56:55] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:57:32] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 03:57:38] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:57:45] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:57:59] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:58:00] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:58:02] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:58:07] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:58:07] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:58:43] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:59:28] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:59:35] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 03:59:56] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:00:04] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:00:06] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '5  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:00:13] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:00:27] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:03:05] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near '4  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:03:14] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:03:32] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:03:46] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:04:08] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:04:24] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:05:58] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:06:10] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:06:26] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:13:07] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:13:17] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:17:30] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:20:43] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:21:17] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:24:53] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:25:26] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:27:45] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\libs\Pagination.php | Строка: 85
+--------------------
+[2020-07-06 04:27:48] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\libs\Pagination.php | Строка: 85
+--------------------
+[2020-07-06 04:27:49] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\libs\Pagination.php | Строка: 85
+--------------------
+[2020-07-06 04:28:57] Текст ошибки:syntax error, unexpected ';', expecting ',' or ')' | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\libs\Pagination.php | Строка: 85
+--------------------
+[2020-07-06 04:29:14] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:32:29] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 04:36:11] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:40:41] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:40:57] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:40:59] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:41:46] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:42:30] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:43:06] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 3,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:43:23] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 04:52:22] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 05:09:07] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 05:09:29] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 05:09:29] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 05:16:49] Текст ошибки:syntax error, unexpected '$contenteditable' (T_VARIABLE) | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 24
+--------------------
+[2020-07-06 05:16:50] Текст ошибки:syntax error, unexpected '$contenteditable' (T_VARIABLE) | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 24
+--------------------
+[2020-07-06 05:17:07] Текст ошибки:syntax error, unexpected '$contenteditable' (T_VARIABLE) | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 28
+--------------------
+[2020-07-06 06:24:16] Текст ошибки:syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 31
+--------------------
+[2020-07-06 06:24:57] Текст ошибки:syntax error, unexpected '' (T_ENCAPSED_AND_WHITESPACE), expecting '-' or identifier (T_STRING) or variable (T_VARIABLE) or number (T_NUM_STRING) | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 31
+--------------------
+[2020-07-06 06:28:48] Текст ошибки:syntax error, unexpected 'R' (T_STRING) | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 32
+--------------------
+[2020-07-06 06:29:07] Текст ошибки:Class 'app\controllers\R' not found | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 32
+--------------------
+[2020-07-06 07:07:00] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 07:19:23] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 07:25:50] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 07:28:11] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 07:32:07] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 07:50:00] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 07:51:16] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 07:57:18] Текст ошибки:syntax error, unexpected '{' | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 27
+--------------------
+[2020-07-06 07:57:40] Текст ошибки:syntax error, unexpected 'else' (T_ELSE) | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 39
+--------------------
+[2020-07-06 08:13:41] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 08:16:00] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 08:16:09] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 08:16:36] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 08:17:53] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 08:18:21] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:09:01] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 09:09:01] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 09:09:16] Текст ошибки:syntax error, unexpected 'endif' (T_ENDIF) | Файл D:\OpenServer\domains\TaskManager\app\views\Main\filter.php | Строка: 23
+--------------------
+[2020-07-06 09:12:09] Текст ошибки:syntax error, unexpected ':', expecting '(' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\filter.php | Строка: 25
+--------------------
+[2020-07-06 09:13:04] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 09:13:59] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 09:14:27] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 6,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:21:48] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:24:10] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:26:21] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:26:22] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:30:09] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:30:10] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:30:10] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:30:11] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:30:11] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:30:11] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'asc  LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:33:42] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:33:59] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:34:04] Текст ошибки:SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'order clause' | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:34:29] Текст ошибки:SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MariaDB server version for the right syntax to use near 'desc   LIMIT 0,3  -- keep-cache' at line 1 | Файл D:\OpenServer\domains\TaskManager\vendor\gabordemooij\redbean\RedBeanPHP\Driver\RPDO.php | Строка: 199
+--------------------
+[2020-07-06 09:40:09] Текст ошибки:syntax error, unexpected ';' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 195
+--------------------
+[2020-07-06 09:40:21] Текст ошибки:syntax error, unexpected ')' | Файл D:\OpenServer\domains\TaskManager\app\views\Main\index.php | Строка: 195
+--------------------
+[2020-07-06 14:03:04] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:04:44] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:38:34] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:48:57] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:50:27] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:57:16] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:57:22] Текст ошибки:Call to undefined function app\controllers\destroy() | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 104
+--------------------
+[2020-07-06 14:57:52] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:57:52] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:57:52] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:57:52] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:57:52] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 14:57:52] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
+--------------------
+[2020-07-06 17:07:36] Текст ошибки:syntax error, unexpected '}', expecting ')' | Файл D:\OpenServer\domains\TaskManager\app\controllers\MainController.php | Строка: 68
+--------------------
+[2020-07-06 17:17:45] Текст ошибки:Class 'EvPeriodic' not found | Файл D:\OpenServer\domains\TaskManager\app\views\Layouts\default.php | Строка: 13
+--------------------
+[2020-07-06 17:20:42] Текст ошибки:Class 'EvTimer' not found | Файл D:\OpenServer\domains\TaskManager\app\views\Layouts\default.php | Строка: 13
+--------------------
+[2020-07-06 17:20:56] Текст ошибки:Class 'EvPeriodic' not found | Файл D:\OpenServer\domains\TaskManager\app\views\Layouts\default.php | Строка: 13
+--------------------
+[2020-07-06 18:00:52] Текст ошибки:Страница не найдена | Файл D:\OpenServer\domains\TaskManager\vendor\TaskManager\core\Router.php | Строка: 48
 --------------------
